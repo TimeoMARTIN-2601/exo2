@@ -27,3 +27,5 @@ Huit types de lieux sont identifiés : écoles militaires, bases militaires, ét
 
 
 Ceci est une modification locale
+
+Ceci est une modification distante
